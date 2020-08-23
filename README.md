@@ -1,10 +1,10 @@
 # TokeninApp
 
-A new Flutter project.
+This is the repository for Indonesia Maju Hacks 2020
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.I have uploaded the project report and the detail concept in pdf format for your reference.
 
 A few resources to get you started if this is your first Flutter project:
 
