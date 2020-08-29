@@ -1,6 +1,6 @@
 # TokeninApp
 
-This is the repository for Indonesia Maju Hacks 2020
+This is the repository for the Tokenin App
 
 ## Getting Started
 
